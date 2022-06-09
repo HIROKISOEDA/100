@@ -1,0 +1,10 @@
+.copy-right-footer{
+position: fixed;
+bottom: 0;
+width:100%;
+text-align: center;
+}
+body {
+    background-color: aquamarine;
+
+}
